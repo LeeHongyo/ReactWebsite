@@ -44,7 +44,6 @@
     ]
   },
   "homepage": "https://leehongyo.github.io/ReactWebsite.github.io/",
-  
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }
